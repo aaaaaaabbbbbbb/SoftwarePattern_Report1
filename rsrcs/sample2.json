@@ -1,0 +1,40 @@
+{
+  "dataType":"msyk-special-v0.0.1",
+  "data":[
+    {
+      "id":201,
+      "name":"Ion",
+      "phonetic":"イオン",
+      "description":"電子の過剰あるいは欠損により電荷を帯びた原子または原子団",
+      "url":"https://en.wikipedia.org/wiki/Ion"
+    },
+    {
+      "id":202,
+      "name":"AEON",
+      "phonetic":"アイオーン",
+      "description":"ラテン語で「永遠」を意味する語",
+      "url":"https://en.wikipedia.org/wiki/Aion_(deity)"
+    },
+    {
+      "id":203,
+      "name":"Eon Productions",
+      "phonetic":"イーオン・プロダクションズ",
+      "description":"ジェームズ・ボンドの映画の製作会社",
+      "url":"https://en.wikipedia.org/wiki/Eon_Productions"
+    },
+    {
+      "id":204,
+      "name":"イオングループ ",
+      "phonetic":"イオングループ ",
+      "description":"イオン、マックスバリュ、ミニストップ等の小売事業を中核とした日本の大手流通グループ",
+      "url":"https://en.wikipedia.org/wiki/%C3%86on_Group"
+    },
+    {
+      "id":205,
+      "name":"イーオンホールディングス",
+      "phonetic":"イーオンホールディングス",
+      "description":"英会話教室をはじめる日本に約349校展開している企業グループの持株会社",
+      "url":"https://en.wikipedia.org/wiki/Aeon_(language_school)"
+    }
+  ]
+}
